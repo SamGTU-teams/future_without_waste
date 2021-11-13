@@ -1,1 +1,1 @@
-# hazardous_waste
+# Опасные отходы
